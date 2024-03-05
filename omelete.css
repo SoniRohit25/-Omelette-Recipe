@@ -1,0 +1,38 @@
+*{
+background-color: antiquewhite;
+}
+
+.omelet{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+
+.omelet img{
+    width: 425px;
+    height: 225px;
+
+}
+
+.color{
+    justify-content: space-evenly;
+    background-color: pink;
+    width: 250px;
+    height: 150px;
+}
+.color h2{
+    color: purple;
+}
+
+.color li{
+    justify-content: space-evenly;
+    background-color: pink;
+    color: black;
+
+}
+
+.page{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
